@@ -1,11 +1,5 @@
 # 1.-AquaMind-AI
-AquaMind is an IoT-based smart irrigation system that combines ESP32 hardware, Firebase cloud integration, adaptive AI learning, weather-aware decision making, and a conversational mobile assistant to deliver efficient and sustainable precision irrigation.
-
-#Short Project Description
-
-Example:
-
-AquaMind is an AI-powered IoT smart irrigation system that combines ESP32 hardware, Firebase cloud integration, adaptive learning algorithms, weather forecast analysis, and a conversational mobile assistant to optimize agricultural irrigation and reduce water wastage.
+AquaMind is an IoT-based smart irrigation system that combines ESP32 hardware, Firebase cloud integration, adaptive AI learning, weather-aware decision-making, and a conversational mobile assistant to deliver efficient, sustainable precision irrigation.
 
 # Problem Statement
 
